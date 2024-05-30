@@ -1,4 +1,4 @@
-# GeneCluster Explorer
+# GeneCoViz: Interactive Gene Co-expression Network Analysis and Visualization
 
 ## Table of Contents
 1. [Introduction](#introduction)
