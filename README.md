@@ -50,4 +50,4 @@ The conclusion summarizes the findings from the various clustering techniques an
 - NetworkX
 
 ## Usage
-To run the analysis, execute the Jupyter notebook `gene_expression_analysis.ipynb` in a suitable environment with the necessary dependencies installed.
+To run the analysis, execute the Jupyter notebook `GeneCoViz.ipynb` in a suitable environment with the necessary dependencies installed.
